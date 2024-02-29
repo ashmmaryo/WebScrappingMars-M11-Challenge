@@ -18,11 +18,13 @@ For this part, the analyzed data answers the following questions:
 -3)What are the coldest and the warmest months on Mars (at the location of Curiosity)? 
 - Coldest Month: (3) | Warmest month: (8)
 -Plot the results as a bar chart.
+
 ![image](https://github.com/ashmmaryo/WebScrappingMars-M11-Challenge/assets/146042131/a21adb5d-d538-4c32-979f-607d876ca0b7)
 
 -4)Which months have the lowest and the highest atmospheric pressure on Mars?
 -Lowest Atmospheric pressure: (6) | Highest Atmospheris pressure: (9)
 -Plot the results as a bar chart.
+
 ![image](https://github.com/ashmmaryo/WebScrappingMars-M11-Challenge/assets/146042131/57c18471-8192-4258-a084-019b27fe58b0)
 
 -5)About how many terrestrial (Earth) days exist in a Martian year? 
